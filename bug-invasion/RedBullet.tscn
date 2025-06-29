@@ -1,0 +1,40 @@
+[gd_scene load_steps=6 format=3 uid="uid://2k63mlikgatq"]
+
+[ext_resource type="Texture2D" uid="uid://7g6811yglsyj" path="res://SpriteSheet.png" id="1_5qhv8"]
+[ext_resource type="Script" path="res://BulletDespawn.cs" id="1_6kqad"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_wgrwv"]
+atlas = ExtResource("1_5qhv8")
+region = Rect2(1170, 0, 234, 182)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_4tmql"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_wgrwv")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_i08ss"]
+size = Vector2(20, 13)
+
+[node name="RedBullet" type="RigidBody2D"]
+collision_layer = 32
+collision_mask = 0
+gravity_scale = 0.0
+script = ExtResource("1_6kqad")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+scale = Vector2(0.1, 0.1)
+sprite_frames = SubResource("SpriteFrames_4tmql")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, 3.5)
+shape = SubResource("RectangleShape2D_i08ss")
+
+[node name="DespawnTimer" type="Timer" parent="."]
+one_shot = true
+autostart = true
