@@ -19,6 +19,10 @@ To use mods, you drag the mod folder in the game folder and the mod folder must 
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Bug_Invasion_Compacted/">Fantasy Computer Compacted Version ReadMe Page</a>
 
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Bug_Invasion_GCSE">Game Creation System Version Repository Page</a>
+
+<a href="https://daniel-hanrahan-tools-and-games.github.io/Bug_Invasion_GCSE/">Game Creation System Version ReadMe Page</a>
+
 <a href="https://godotengine.org/download/archive/4.3-stable/">This game is made in Godot 4.3 .NET version</a>
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Bug_Invasion">Repository Page</a>
