@@ -27,9 +27,9 @@ To use mods, you drag the mod folder in the game folder and the mod folder must 
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Bug_Invasion_Compatibility/">Compatibility Version ReadMe Page</a>
 
-<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Bug_Invasion_P&P">P&P Version Repository Page</a>
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Bug_Invasion_PNP">P&P Version Repository Page</a>
 
-<a href="https://daniel-hanrahan-tools-and-games.github.io/Bug_Invasion_P&P/">P&P Version ReadMe Page</a>
+<a href="https://daniel-hanrahan-tools-and-games.github.io/Bug_Invasion_PNP/">P&P Version ReadMe Page</a>
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Bug_Invasion_VPLS">Visual Programming Language System Version Repository Page</a>
 
