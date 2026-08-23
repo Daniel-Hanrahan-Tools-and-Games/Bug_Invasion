@@ -35,9 +35,9 @@ To use mods, you drag the mod folder in the game folder and the mod folder must 
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Bug_Invasion_VPLS/">Visual Programming Language System Version ReadMe Page</a>
 
-<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/IDTECH1_Game_V._Bug_Invasion">IDTECH1 Game Crossover Repository Page</a>
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Ecosystem_Engine_Game_V._Bug_Invasion">IDTECH1 Game Crossover Repository Page</a>
 
-<a href="https://daniel-hanrahan-tools-and-games.github.io/IDTECH1_Game_V._Bug_Invasion/">IDTECH1 Game Crossover ReadMe Page</a>
+<a href="https://daniel-hanrahan-tools-and-games.github.io/Ecosystem_Engine_Game_V._Bug_Invasion/">IDTECH1 Game Crossover ReadMe Page</a>
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/MGSInfo.html">Information On Multi-Game-Systems</a>
 
